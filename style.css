@@ -87,20 +87,11 @@ border-radius: 5px;
      font-weight: 400;
      cursor: pointer;
 }
-.form .submit .btn:hover{
-    background-color: #1abc9c;
-    transition: all 1s ease-in;
-}
-.form .pass{
- position: absolute;
- left: 1.1rem;
- top: 11.5rem;
 
-}
 .form .pass a{
     text-decoration: none;
     color:#258645;
-}
+} 
 .form .pass a:hover{
     color: #1abc9c;
 }
